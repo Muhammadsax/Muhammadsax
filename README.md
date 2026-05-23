@@ -33,15 +33,3 @@
 - **مجالات إضافية:** مفاهيم الأمن السيبراني وأدوات حماية البيانات (Steghide)
 
 ---
-
-## إحصائيات GitHub (GitHub Stats)
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsax&show_icons=true&theme=radial&locale=ar" alt="Muhammadsax GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsax&layout=compact&theme=radial&locale=ar" alt="Muhammadsax Top Languages" />
-</p>
