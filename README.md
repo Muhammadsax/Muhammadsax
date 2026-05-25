@@ -23,9 +23,9 @@
 ### لغات البرمجة وإطارات العمل
 | المجال | التقنيات |
 | :--- | :--- |
-| **Backend** | Python (Flask, Django), Java (OOP, Swing, Multithreading), Node.js |
-| **Frontend** | JavaScript, React, Vite, HTML5, CSS3 |
-| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Backend** | Python (Flask, Django), Java (OOP)|
+| **Frontend** | JavaScript, ,HTML5, CSS3 |
+| **Databases** | PostgreSQL, SQLite |
 
 ### الأدوات والأنظمة
 - **أنظمة التحكم:** Git & GitHub
