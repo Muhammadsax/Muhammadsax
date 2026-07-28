@@ -26,9 +26,6 @@
 - تصميم حديث باستخدام Tailwind CSS.
 - بنية قابلة للتوسع والتطوير.
 
-### Atlas System
-نظام ويب لإدارة الامتحانات العملية وتنظيم تدوير المجموعات الطلابية بشكل مرن.
-
 ### ITGS220-BOT
 بوت تعليمي يساعد الطلاب على الوصول إلى المحتوى الدراسي وبنك الأسئلة بطريقة منظمة.
 
@@ -56,7 +53,6 @@
 - Git
 - GitHub
 - VS Code
-- PyCharm
 - PythonAnywhere
 - Figma
 
@@ -81,8 +77,16 @@
 
 ## التواصل
 
-- LinkedIn
-- GitHub
-- Email
+- **LinkedIn:**  
+  https://www.linkedin.com/in/mohammed-al-sadawi-364176338
+
+- **Instagram:**  
+  https://www.instagram.com/its_.__muhamad
+
+- **Facebook:**  
+  https://www.facebook.com/share/1BT8WzXMai/
+
+- **Email:**  
+  mohammedsa.business@gmail.com
 
 </div>
